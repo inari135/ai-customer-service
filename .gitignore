@@ -2,6 +2,9 @@
 .env
 .session_token.json
 
+# AI 辅助开发配置（本地使用，不上传）
+CLAUDE.md
+
 # Python
 venv/
 __pycache__/
